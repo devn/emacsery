@@ -1,0 +1,14 @@
+*~
+session.*
+places
+url/cookies
+auto-save-list
+loaddefs\.el
+eproject.lst
+\.DS_Store
+image-dired
+tramp
+\#*
+*\~
+backups
+backups/*
